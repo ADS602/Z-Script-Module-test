@@ -1,1 +1,5 @@
+int ExVariable = 10;
 
+int ExampleFunction(a,b){
+    out >> a+b >> endl;
+}
