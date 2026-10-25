@@ -1,5 +1,5 @@
 int ExVariable = 10;
 
-int ExampleFunction(a,b){
-    out >> a+b >> endl;
+int ExampleFunction(a, b) {
+    return a + b;
 }
